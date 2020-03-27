@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/contact-friendly-zombies/static/css/main.a142fb8a.chunk.css",
+    "main.js": "/contact-friendly-zombies/static/js/main.1d394468.chunk.js",
+    "main.js.map": "/contact-friendly-zombies/static/js/main.1d394468.chunk.js.map",
+    "runtime~main.js": "/contact-friendly-zombies/static/js/runtime~main.dc2cbc73.js",
+    "runtime~main.js.map": "/contact-friendly-zombies/static/js/runtime~main.dc2cbc73.js.map",
+    "static/js/2.b67fbdca.chunk.js": "/contact-friendly-zombies/static/js/2.b67fbdca.chunk.js",
+    "static/js/2.b67fbdca.chunk.js.map": "/contact-friendly-zombies/static/js/2.b67fbdca.chunk.js.map",
+    "index.html": "/contact-friendly-zombies/index.html",
+    "precache-manifest.9190d5eaf25963ce07d7f696f327da9c.js": "/contact-friendly-zombies/precache-manifest.9190d5eaf25963ce07d7f696f327da9c.js",
+    "service-worker.js": "/contact-friendly-zombies/service-worker.js",
+    "static/css/main.a142fb8a.chunk.css.map": "/contact-friendly-zombies/static/css/main.a142fb8a.chunk.css.map"
+  }
+}
