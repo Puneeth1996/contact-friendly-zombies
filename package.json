@@ -1,8 +1,8 @@
 {
-  "name": "monsters-rolodex",
+  "name": "contact-friendly-zombies",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://puneeth1996.github.io/contact-friendly-zombies",
+  "homepage": "https://Puneeth1996.github.io/contact-friendly-zombies",
   "dependencies": {
     "gh-pages": "2.0.1",
     "react": "^16.8.6",
