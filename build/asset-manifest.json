@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/contact-friendly-zombies/static/css/main.a142fb8a.chunk.css",
-    "main.js": "/contact-friendly-zombies/static/js/main.1d394468.chunk.js",
-    "main.js.map": "/contact-friendly-zombies/static/js/main.1d394468.chunk.js.map",
-    "runtime~main.js": "/contact-friendly-zombies/static/js/runtime~main.dc2cbc73.js",
-    "runtime~main.js.map": "/contact-friendly-zombies/static/js/runtime~main.dc2cbc73.js.map",
-    "static/js/2.b67fbdca.chunk.js": "/contact-friendly-zombies/static/js/2.b67fbdca.chunk.js",
-    "static/js/2.b67fbdca.chunk.js.map": "/contact-friendly-zombies/static/js/2.b67fbdca.chunk.js.map",
+    "main.css": "/contact-friendly-zombies/static/css/main.75333c6d.chunk.css",
+    "main.js": "/contact-friendly-zombies/static/js/main.fc1175d7.chunk.js",
+    "main.js.map": "/contact-friendly-zombies/static/js/main.fc1175d7.chunk.js.map",
+    "runtime-main.js": "/contact-friendly-zombies/static/js/runtime-main.15bd9774.js",
+    "runtime-main.js.map": "/contact-friendly-zombies/static/js/runtime-main.15bd9774.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/contact-friendly-zombies/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8ed5472f.chunk.js": "/contact-friendly-zombies/static/js/2.8ed5472f.chunk.js",
+    "static/js/2.8ed5472f.chunk.js.map": "/contact-friendly-zombies/static/js/2.8ed5472f.chunk.js.map",
     "index.html": "/contact-friendly-zombies/index.html",
-    "precache-manifest.9190d5eaf25963ce07d7f696f327da9c.js": "/contact-friendly-zombies/precache-manifest.9190d5eaf25963ce07d7f696f327da9c.js",
+    "precache-manifest.c464605e6d2db2633e4d8795abe53bed.js": "/contact-friendly-zombies/precache-manifest.c464605e6d2db2633e4d8795abe53bed.js",
     "service-worker.js": "/contact-friendly-zombies/service-worker.js",
-    "static/css/main.a142fb8a.chunk.css.map": "/contact-friendly-zombies/static/css/main.a142fb8a.chunk.css.map"
-  }
+    "static/css/2.eb45ad44.chunk.css.map": "/contact-friendly-zombies/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.75333c6d.chunk.css.map": "/contact-friendly-zombies/static/css/main.75333c6d.chunk.css.map",
+    "static/js/2.8ed5472f.chunk.js.LICENSE.txt": "/contact-friendly-zombies/static/js/2.8ed5472f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/contact-friendly-zombies/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15bd9774.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8ed5472f.chunk.js",
+    "static/css/main.75333c6d.chunk.css",
+    "static/js/main.fc1175d7.chunk.js"
+  ]
 }
