@@ -18,10 +18,12 @@ class App extends Component {
   componentDidMount() {
     fetch('https://jsonplaceholder.typicode.com/users', {
       method: "GET",
+      cache: 'no-cache',
       headers: {
         "Access-Control-Allow-Origin": "*",
         'Content-Type': 'application/json',
-        'Accept': 'application/json'
+        'Accept': 'application/json',
+        
       }
     })
       .then(response => response.json())
